@@ -1,0 +1,32 @@
+Rank,Company,Market Cap (USD),Country,Sector,Industry
+1,Nvidia Corporation,$3.886 T,United States,US Technology,US Semiconductors
+2,Microsoft Corporation,$3.650 T,United States,US Technology,US Software—Infrastructure
+3,Apple Inc.,$3.173 T,United States,US Technology,US Consumer Electronics
+4,"Amazon.com, Inc.",$2.335 T,United States,US Consumer Discretionary,US Internet Retail
+5,Alphabet Inc.,$2.183 T,United States,US Communication Services,US Internet Content & Information
+6,"Meta Platforms, Inc.",$1.794 T,United States,US Communication Services,US Internet Content & Information
+7,Saudi Arabian Oil Company,$1.598 T,Saudi Arabia,Saudi Arabian Energy,Saudi Arabian Oil & Gas Integrated
+8,Broadcom Inc.,$1.269 T,United States,US Technology,US Semiconductors
+9,Berkshire Hathaway Inc.,$1.036 T,United States,US Financials,US Financial Conglomerates
+,,,,,
+10,"Tesla, Inc.",$1.017 T,United States,US Consumer Discretionary,US Auto Manufacturers
+11,Taiwan Semiconductor Manufacturing Company Limited,$960.79 B,Taiwan,Taiwanese Technology,Taiwanese Semiconductors
+12,JPMorgan Chase & Co.,$811.49 B,United States,US Financials,US Banks—Diversified
+13,Walmart Inc.,$778.97 B,United States,US Consumer Staples,US Discount Stores
+14,Eli Lilly and Company,$699.59 B,United States,US Healthcare,US Drug Manufacturers—General
+15,Visa Inc.,$691.97 B,United States,US Financials,US Credit Services
+16,Oracle Corporation,$645.97 B,United States,US Technology,US Software—Infrastructure
+17,Tencent Holdings Ltd,$579.95 B,China,Chinese Communication Services,Chinese Internet Content & Information
+18,"Netflix, Inc.",$546.80 B,United States,US Communication Services,US Entertainment
+19,Mastercard Incorporated,$509.91 B,United States,US Financials,US Credit Services
+20,Exxon Mobil Corporation,$484.51 B,United States,US Energy,US Oil & Gas Integrated
+21,Costco Wholesale Corporation,$435.65 B,United States,US Consumer Staples,US Discount Stores
+22,The Procter & Gamble Company,$377.07 B,United States,US Consumer Staples,US Household & Personal Products
+23,Johnson & Johnson,$374.29 B,United States,US Healthcare,US Drug Manufacturers—General
+24,"The Home Depot, Inc.",$369.79 B,United States,US Consumer Discretionary,US Home Improvement Retail
+25,Bank of America Corporation,$368.53 B,United States,US Financials,US Banks—Diversified
+26,Industrial & Commercial Bank of China Ltd,$356.81 B,China,Chinese Financials,Chinese Banks—Diversified
+27,SAP SE,$347.24 B,Germany,German Technology,German Software—Application
+28,AbbVie Inc.,$336.94 B,United States,US Healthcare,US Drug Manufacturers—General
+29,ASML Holding N.V.,$314.63 B,Netherlands,Dutch Technology,Dutch Semiconductor Equipment & Materials
+30,Palantir Technologies Inc.,$311.79 B,United States,US Technology,US Software—Infrastructure
