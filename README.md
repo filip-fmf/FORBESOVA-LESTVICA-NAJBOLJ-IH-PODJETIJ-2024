@@ -1,4 +1,4 @@
-# FORBESOVA-LESTVICA-NAJBOLJ-IH-PODJETIJ-2024
+# FORBESOVA-LESTVICA-NAJBOLJšIH-PODJETIJ-2024
 
 Projektna naloga pri predmetu Uvod v programiranje  
 Avtor: FIlip Cerkovnik, študent programa Finančna matematika  
@@ -17,6 +17,8 @@ Za temo projektne naloge sem izbral lestvico najboljših svetovnih podjetij, ki 
 Kako deluje program?
 Najprej potrebujemo pridobiti podatke. Ustvaril sem dva programa .py, ki ob zagonu (run in Terminal), ustvarita .csv datoteki:
 
-'podjetja_forbes.py' ustvari 'podatki_2023.csv' - pridobi podatke s Forbesa, o najboljših podjetjih,
-'podjetja_podrobnosti.py' ustvari 'podjetja_podrobnosti.csv', kjer je malo več informacij o podjetjih - področje in industrija.
+- 'podjetja_forbes.py' ustvari 'podatki_2023.csv' - pridobi podatke s Forbesa, o najboljših podjetjih,
+- 'podjetja_podrobnosti.py' ustvari 'podjetja_podrobnosti.csv', kjer je malo več informacij o podjetjih - področje in industrija.
+
+
 Podatke, ki sem jih pridobil, sem prikazal s pomočjo različnih grafov in diagramov v Jupyter Notebooku najbolsa_podjetja_forbes.ipynb. Projekt je koristen, saj grafični prikazi pomagajo k razumevanju, v katerih državah se nahajajo najboljša podjetja (in koliko jih je v posameznih državah), kolikšen zaslužek imajo, kakšna je njihova tržna vrednost in s čim se ukvarjajo.
