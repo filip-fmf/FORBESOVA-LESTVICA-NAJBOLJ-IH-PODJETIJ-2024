@@ -12,7 +12,7 @@ Nekaj najbolj znanih lestvic je:
 - lestvica svetovnih milijarderjev, ...
 
 
-Za temo projektne naloge sem izbral lestvico najboljših svetovnih podjetij, ki je znana po angleškem imenu Forbes Global 2000. Podake o podjetjih in njihovem premoženju sem pridobil iz Forbesove spletne strani https://www.forbes.com/billionaires/.Analiziral sem tudi spletno stran https://disfold.com/world/companies/, kjer sem dobil podatke, na katerem področju delujejo ta podjetja.
+Za temo projektne naloge sem izbral lestvico najboljših svetovnih podjetij, ki je znana po angleškem imenu Forbes Global 2000. Podake o podjetjih in njihovem premoženju sem pridobil iz Forbesove spletne strani https://www.forbes.com/billionaires/. Analiziral sem tudi spletno stran https://disfold.com/world/companies/, kjer sem dobil podatke, na katerem področju delujejo ta podjetja.
 
 Kako deluje program?
 Najprej potrebujemo pridobiti podatke. Ustvaril sem dva programa .py, ki ob zagonu (run in Terminal), ustvarita .csv datoteki:
