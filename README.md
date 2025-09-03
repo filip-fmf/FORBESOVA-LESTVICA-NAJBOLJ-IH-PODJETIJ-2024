@@ -1,4 +1,4 @@
-# FORBESOVA-LESTVICA-NAJBOLJšIH-PODJETIJ-2024
+# FORBESOVA-LESTVICA-NAJBOLJšIH-PODJETIJ-2025
 
 Projektna naloga pri predmetu Uvod v programiranje  
 Avtor: FIlip Cerkovnik, študent programa Finančna matematika  
