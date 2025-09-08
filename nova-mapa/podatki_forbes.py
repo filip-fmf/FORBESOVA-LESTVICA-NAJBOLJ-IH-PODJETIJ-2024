@@ -1,6 +1,5 @@
-# To je začetek projekta. Poiščemo/naredimo seznam .csv, s podatki, ki jih potrebujemo za projekt.
-# Ko sem poskušal narediti sam funkcijo oziroma.py datoteko, ki bo ustvarila .csv, sem imel zelo veliko težav (sem porabil veliko časa), zato sem si pomgal z internetno dokumentacijo.
-# za zagon te funkcije najprej moramo v Terminal-u zagnati: pip install request pandas
+# S tem programom pridobimo podatke za kasnejšo analizo
+# Za zagon te funkcije najprej moramo v Terminal-u zagnati: pip install request pandas
  
 import pandas as pd
 import requests
